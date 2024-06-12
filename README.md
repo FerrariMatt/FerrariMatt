@@ -4,7 +4,6 @@
 
 - 💬 Sou um apaixonado e entusiasta da tecnologia, programação e felinos. Estou sempre em busca de uma versão melhor de mim mesmo.
 - 🌱 Atualmente estou realizando um curso de Full-Stack Python, mas adquirindo mais apreço pela area de back-end
-- 👯 [_Estou aberto a oportunidades de emprego._]
 - 📫 Como entrar em contato comigo: [ferraridev18@gmail.com]
 - 😄 Pronomes: [Ele/Dele]
 
@@ -33,7 +32,6 @@
 
 - 💬 I am passionate about technology, programming, and felines. I am always in search of a better version of myself.
 - 🌱 Currently, I am taking a Full-Stack Python course, but I am growing more fond of the back-end area.
-- 👯 [I am open to job opportunities.]
 - 📫 How to reach me: [ferraridev18@gmail.com]
 - 😄 Pronouns: [He/Him]
 
