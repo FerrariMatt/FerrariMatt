@@ -47,7 +47,7 @@
 ## 📫 Find-me
 
 - [[LinkedIn](https://www.linkedin.com/in/mateusferraridev/)]
-- [[Portfolio]([https://www.linkedin.com/in/mateusferraridev/](https://my-portfolio-eight-umber-41.vercel.app/))]
+- [[Portfolio](https://my-portfolio-eight-umber-41.vercel.app/)]
 
 ⭐️ From [Ferrari]
 
