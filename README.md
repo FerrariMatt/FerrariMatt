@@ -14,7 +14,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrariMatt&layout=compact)](https://github.com/FerrariMatt/github-readme-stats)
+[![ferrarimatt](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarimatt&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Encontre-me
 
@@ -37,7 +37,7 @@
   
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,python,django,react,redux,bootstrap,linux,mysql,postgres,sqlite,vscode,git,discord)](https://skillicons.dev)
+[![ferrarimatt](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarimatt&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📊 GitHub stats
