@@ -34,15 +34,9 @@
 - 📫 How to reach me: [ferraridev18@gmail.com]
 - 😄 Pronouns: [He/Him]
 
-  
-## 🚀 Skills
-
-[![ferrarimatt](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarimatt&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 📊 GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrariMatt&layout=compact)](https://github.com/FerrariMatt/github-readme-stats)
+[![ferrarimatt](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarimatt&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Find-me
 
