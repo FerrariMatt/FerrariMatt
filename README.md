@@ -3,7 +3,7 @@
 ## 👨‍💻 Sobre mim
 
 - 💬 Backend Engineer apaixonado por tecnologia, programação e felinos. Estou sempre em busca de uma versão melhor de mim mesmo.
-- 🌱 Foco atual em sistemas de pagamento e infraestrutura de alta confiabilidade — trabalhando principalmente com *Ruby on Rails* e *Go, com interesse crescente em **Rust*.
+- 🌱 Foco atual em sistemas de pagamento e infraestrutura de alta confiabilidade — trabalhando principalmente com **Ruby on Rails**.
 - 🔐 Gosto de investir em fundamentos sólidos: performance de banco de dados, segurança de aplicações e observabilidade.
 - 🤖 Entusiasta de fluxos de trabalho potencializados por IA (Claude Code e afins) para acelerar entrega sem abrir mão de qualidade.
 - 📫 Como entrar em contato comigo: [ferraridev18@gmail.com](mailto:ferraridev18@gmail.com)
@@ -11,7 +11,7 @@
 
 ## 🚀 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,rust,git,typescript,kubernetes,docker,python,postgres,redis,terraform,gcp,linux,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,rust,typescript,kubernetes,docker,python,postgres,redis,terraform,gcp,linux,apple,obsidian)](https://skillicons.dev)
 
 ## 📊 Estatísticas do GitHub
 
@@ -31,7 +31,7 @@
 ## 👨‍💻 About me
 
 - 💬 Backend Engineer passionate about technology, programming, and felines. Always in search of a better version of myself.
-- 🌱 Currently focused on payment systems and reliable infrastructure — mainly working with *Ruby on Rails* and *Go, with growing interest in **Rust*.
+- 🌱 Currently focused on payment systems and reliable infrastructure — mainly working with **Ruby on Rails**.
 - 🔐 I care about solid fundamentals: database performance, application security, and observability.
 - 🤖 Active user of AI-assisted workflows (Claude Code and similar tools) to move fast without cutting corners.
 - 📫 How to reach me: [ferraridev18@gmail.com](mailto:ferraridev18@gmail.com)
@@ -39,7 +39,7 @@
 
 ## 🚀 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,rust,git,typescript,kubernetes,docker,python,postgres,redis,terraform,gcp,linux,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,rust,typescript,kubernetes,docker,python,postgres,redis,terraform,gcp,linux,apple,obsidian)](https://skillicons.dev)
 
 ## 📊 GitHub stats
 
