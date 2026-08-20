@@ -11,7 +11,7 @@
 
 ## 🚀 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,rust,typescript,kubernetes,docker,python,postgres,redis,terraform,gcp,linux,apple,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,rust,kubernetes,docker,python,postgres,redis,terraform,gcp,linux,apple,obsidian)](https://skillicons.dev)
 
 ## 📊 Estatísticas do GitHub
 
@@ -39,7 +39,7 @@
 
 ## 🚀 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,rust,typescript,kubernetes,docker,python,postgres,redis,terraform,gcp,linux,apple,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,rust,kubernetes,docker,python,postgres,redis,terraform,gcp,linux,apple,obsidian)](https://skillicons.dev)
 
 ## 📊 GitHub stats
 
