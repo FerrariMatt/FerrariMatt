@@ -15,7 +15,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-[![ferrarimatt](https://github-stats-extended.vercel.app/api/top-langs/?username=ferrarimatt&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ferrarimatt](https://github-stats-extended.vercel.app/api/top-langs/?username=ferrarimatt&theme=highcontrast&)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Encontre-me
 
